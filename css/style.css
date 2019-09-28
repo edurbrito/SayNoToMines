@@ -489,13 +489,11 @@ nav ul li a {
   height: auto;
   width: 100%;
   background: #000;
-  padding-bottom: 60px;
   position: relative;
 }
 
 #journal-blog {
   background: #fff;
-  padding-bottom: 30px;
 }
 
 #journal .journal-block {
@@ -610,9 +608,9 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #000;
+  background: #1A1818;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 10px;
 }
 
 #footer .socials-media {
