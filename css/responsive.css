@@ -154,6 +154,11 @@
     float: none;
     display: inline-block;
   }
+    
+  #partners img{
+    padding: 10px 10px 10px 10px;
+  }
+
 }
 
 /** Width between 600px to 0
@@ -385,4 +390,5 @@
     display: inline-block;
     margin-right: 0;
   }
+
 }
