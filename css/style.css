@@ -407,6 +407,7 @@ nav ul li a {
   width: 100%;
   display: block;
   margin: 0 auto;
+  padding-bottom: 30px;
 }
  
 .services-carousel .legend2{
